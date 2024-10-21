@@ -1,0 +1,59 @@
+Series_sample_id,Sample_title,Sample_geo_accession,Sample_source_name_ch1,patient id,tumor stage,tissue origin abbrevation,lung cancer subtype
+GSM3827114,LUNG_N01,GSM3827114,Normal lung, P0001, I, nLung, lung adenocarcinoma
+GSM3827115,LUNG_N06,GSM3827115,Normal lung, P0006, I, nLung, lung adenocarcinoma
+GSM3827116,LUNG_N08,GSM3827116,Normal lung, P0008, I, nLung, lung adenocarcinoma
+GSM3827117,LUNG_N09,GSM3827117,Normal lung, P0009, II, nLung, lung adenocarcinoma
+GSM3827118,LUNG_N18,GSM3827118,Normal lung, P0018, I, nLung, lung adenocarcinoma
+GSM3827119,LUNG_N19,GSM3827119,Normal lung, P0019, I, nLung, lung adenocarcinoma
+GSM3827120,LUNG_N20,GSM3827120,Normal lung, P0020, I, nLung, lung adenocarcinoma
+GSM3827121,LUNG_N28,GSM3827121,Normal lung, P0028, III, nLung, lung adenocarcinoma
+GSM3827122,LUNG_N30,GSM3827122,Normal lung, P0030, I, nLung, lung adenocarcinoma
+GSM3827123,LUNG_N31,GSM3827123,Normal lung, P0031, III, nLung, lung adenocarcinoma
+GSM3827124,LUNG_N34,GSM3827124,Normal lung, P0034, I, nLung, lung adenocarcinoma
+GSM3827125,LUNG_T06,GSM3827125,Tumour lung, P0006, I, tLung, lung adenocarcinoma
+GSM3827126,LUNG_T08,GSM3827126,Tumour lung, P0008, I, tLung, lung adenocarcinoma
+GSM3827127,LUNG_T09,GSM3827127,Tumour lung, P0009, II, tLung, lung adenocarcinoma
+GSM3827128,LUNG_T18,GSM3827128,Tumour lung, P0018, I, tLung, lung adenocarcinoma
+GSM3827129,LUNG_T19,GSM3827129,Tumour lung, P0019, I, tLung, lung adenocarcinoma
+GSM3827130,LUNG_T20,GSM3827130,Tumour lung, P0020, I, tLung, lung adenocarcinoma
+GSM3827131,LUNG_T25,GSM3827131,Tumour lung, P0025, I, tLung, lung adenocarcinoma
+GSM3827132,LUNG_T28,GSM3827132,Tumour lung, P0028, III, tLung, lung adenocarcinoma
+GSM3827133,LUNG_T30,GSM3827133,Tumour lung, P0030, I, tLung, lung adenocarcinoma
+GSM3827134,LUNG_T31,GSM3827134,Tumour lung, P0031, III, tLung, lung adenocarcinoma
+GSM3827135,LUNG_T34,GSM3827135,Tumour lung, P0034, I, tLung, lung adenocarcinoma
+GSM3827136,EBUS_06,GSM3827136,Tumour lung, P1006, IV, tL/B, lung adenocarcinoma
+GSM3827137,EBUS_28,GSM3827137,Tumour lung, P1028, IV, tL/B, lung adenocarcinoma
+GSM3827138,EBUS_49,GSM3827138,Tumour lung, P1049, IV, tL/B, lung adenocarcinoma
+GSM3827139,BRONCHO_58,GSM3827139,Tumour lung, P1058, IV, tL/B, lung adenocarcinoma
+GSM3827140,EBUS_10,GSM3827140,Metastatic lymph node, P1010, IV, mLN, lung adenocarcinoma
+GSM3827141,BRONCHO_11,GSM3827141,Metastatic lymph node, P1011, IV, mLN, lung adenocarcinoma
+GSM3827142,EBUS_12,GSM3827142,Metastatic lymph node, P1012, IV, mLN, lung adenocarcinoma
+GSM3827143,EBUS_13,GSM3827143,Metastatic lymph node, P1013, IV, mLN, lung adenocarcinoma
+GSM3827144,EBUS_15,GSM3827144,Metastatic lymph node, P1015, III, mLN, lung adenocarcinoma
+GSM3827145,EBUS_19,GSM3827145,Metastatic lymph node, P1019, IV, mLN, lung adenocarcinoma
+GSM3827146,EBUS_51,GSM3827146,Metastatic lymph node, P1051, IV, mLN, lung adenocarcinoma
+GSM3827147,LN_01,GSM3827147,Normal lymph node, P2001, II, nLN, lung adenocarcinoma
+GSM3827148,LN_02,GSM3827148,Normal lymph node, P2002, I, nLN, lung adenocarcinoma
+GSM3827149,LN_03,GSM3827149,Normal lymph node, P2003, II, nLN, lung adenocarcinoma
+GSM3827150,LN_04,GSM3827150,Normal lymph node, P2004, I, nLN, lung adenocarcinoma
+GSM3827151,LN_05,GSM3827151,Normal lymph node, P2005, I, nLN, lung adenocarcinoma
+GSM3827152,LN_06,GSM3827152,Normal lymph node, P2006, I, nLN, lung adenocarcinoma
+GSM3827153,LN_07,GSM3827153,Normal lymph node, P2007, I, nLN, lung adenocarcinoma
+GSM3827154,LN_08,GSM3827154,Normal lymph node, P2008, I, nLN, lung adenocarcinoma
+GSM3827155,LN_11,GSM3827155,Normal lymph node, P2011, I, nLN, lung adenocarcinoma
+GSM3827156,LN_12,GSM3827156,Normal lymph node, P2012, I, nLN, lung adenocarcinoma
+GSM3827157,EFFUSION_06,GSM3827157,Pleural effusion, P1006, IV, PE, lung adenocarcinoma
+GSM3827158,EFFUSION_11,GSM3827158,Pleural effusion, P1011, IV, PE, lung adenocarcinoma
+GSM3827159,EFFUSION_12,GSM3827159,Pleural effusion, P1012, IV, PE, lung adenocarcinoma
+GSM3827160,EFFUSION_13,GSM3827160,Pleural effusion, P1013, IV, PE, lung adenocarcinoma
+GSM3827161,EFFUSION_64,GSM3827161,Pleural effusion, P1064, IV, PE, lung adenocarcinoma
+GSM3827162,NS_02,GSM3827162,Metastatic brain, P3002, IV, mBrain, lung adenocarcinoma
+GSM3827163,NS_03,GSM3827163,Metastatic brain, P3003, IV, mBrain, lung adenocarcinoma
+GSM3827164,NS_04,GSM3827164,Metastatic brain, P3004, IV, mBrain, lung adenocarcinoma
+GSM3827165,NS_06,GSM3827165,Metastatic brain, P3006, IV, mBrain, lung adenocarcinoma
+GSM3827166,NS_07,GSM3827166,Metastatic brain, P3007, IV, mBrain, lung adenocarcinoma
+GSM3827167,NS_12,GSM3827167,Metastatic brain, P3012, IV, mBrain, lung adenocarcinoma
+GSM3827168,NS_13,GSM3827168,Metastatic brain, P3013, IV, mBrain, lung adenocarcinoma
+GSM3827169,NS_16,GSM3827169,Metastatic brain, P3016, III, mBrain, lung adenocarcinoma
+GSM3827170,NS_17,GSM3827170,Metastatic brain, P3017, IV, mBrain, lung adenocarcinoma
+GSM3827171,NS_19,GSM3827171,Metastatic brain, P3019, IV, mBrain, lung adenocarcinoma
